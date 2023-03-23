@@ -56,13 +56,13 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this repository to your desired folder:
+- Clone this repository to your desired folder:
 
-Git clone:(https://github.com/binodbhusal/Hello-Microverse)
+    Git clone:(https://github.com/binodbhusal/Hello-Microverse)
 
-Navigate to the location of the folder in your machine:
+- Navigate to the location of the folder in your machine:
 
-you@your-Pc-name:~$ cd Hello-Microverse
+    you@your-Pc-name:~$ cd Hello-Microverse
 
 ### Install
 
