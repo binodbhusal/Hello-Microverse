@@ -1,40 +1,5 @@
-<a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
 
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -129,8 +94,8 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 1. Knowledge of HTML and CSS 
-2. VSCode or other text editor installed. Link to Download VSCode(https://code.visualstudio.com/download)
-3. Node package. Link to Download Node(https://nodejs.org/en/download)
+2. VSCode or other text editor installed. [Link to Download ]VSCode(https://code.visualstudio.com/download)
+3. Node package. [Link to Download Node](https://nodejs.org/en/download)
 
 ### Setup
 
