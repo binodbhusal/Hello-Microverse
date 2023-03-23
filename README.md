@@ -7,7 +7,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -22,11 +21,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+
 
 # 📖 [Hello-Microverse] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[Hello-Microverse]**  is a simple HTML and CSS project.
 
@@ -34,11 +31,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
   Combination of HTML and CSS
-</details>
-
-
 
 ### Key Features <a name="key-features"></a>
 
@@ -68,6 +61,7 @@ Clone this repository to your desired folder:
 Git clone:(https://github.com/binodbhusal/Hello-Microverse)
 
 Navigate to the location of the folder in your machine:
+
 you@your-Pc-name:~$ cd Hello-Microverse
 
 ### Install
@@ -134,7 +128,7 @@ Feel free to check the [issues page](https://github.com/binodbhusal/Hello-Microv
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project is useful for you please feel free to contact me for any kind of support.
+If you like this project  please feel free to contact me for any kind of support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
