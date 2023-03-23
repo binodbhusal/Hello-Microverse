@@ -92,7 +92,7 @@ npx eslint .
 
 ### Deployment
 
-Deployment is currently not avaible. It will be available soon.
+open the index.html on your Browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
