@@ -130,7 +130,7 @@ If you like this project  please feel free to contact me for any kind of support
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank technical support team.
+I would like to thank Microverse and technical support team.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
