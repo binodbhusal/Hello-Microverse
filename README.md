@@ -91,8 +91,7 @@ npx stylelint "**/*.{css,scss}"
 npx eslint .
 
 ### Deployment
-
-  - open the index.html on your Browser.
+ open the index.html on your Browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
