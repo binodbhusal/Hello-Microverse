@@ -78,21 +78,21 @@ To run the project, follow these instructions:
 
 ### Run tests
 To run tests, run the following command:
-Track HTML linter errors run:
+- Track HTML linter errors run:
 
 npx hint .
 
-Track CSS linter errors run:
+- Track CSS linter errors run:
 
 npx stylelint "**/*.{css,scss}"
 
-Track JavaScript linter errors run:
+- Track JavaScript linter errors run:
 
 npx eslint .
 
 ### Deployment
 
-open the index.html on your Browser.
+  - open the index.html on your Browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,13 +122,11 @@ Feel free to check the [issues page](https://github.com/binodbhusal/Hello-Microv
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project  please feel free to contact me for any kind of support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
