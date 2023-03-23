@@ -73,8 +73,8 @@ npm install
 ### Usage
 To run the project, follow these instructions:
 
-After Cloning this repo to your local machine.
-  Open the index.html in your browser.
+  - After Cloning this repo to your local machine.
+  - Open the index.html in your browser.
 
 ### Run tests
 To run tests, run the following command:
@@ -96,8 +96,6 @@ open the index.html on your Browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ## 👥 Author <a name="authors"></a>
 
 👤 **Binod Bhusal**
@@ -114,7 +112,6 @@ open the index.html on your Browser.
 - [ ] **[New CSS file will be added]**
 - [ ] **[Database will be connected]**
  
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
