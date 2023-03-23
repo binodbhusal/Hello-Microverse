@@ -94,7 +94,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 1. Knowledge of HTML and CSS 
-2. VSCode or other text editor installed. [Link to Download ]VSCode(https://code.visualstudio.com/download)
+2. VSCode or other text editor installed. [Link to Download VSCode](https://code.visualstudio.com/download)
 3. Node package. [Link to Download Node](https://nodejs.org/en/download)
 
 ### Setup
